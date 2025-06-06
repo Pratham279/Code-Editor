@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pratham279/CodeForge.git
+   git clone https://github.com/Pratham279/Code-Editor.git
    cd CodeForge
    ```
 
