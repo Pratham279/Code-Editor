@@ -1,6 +1,6 @@
 # CodeForge - Online Code Editor
 
-![CodeForge Banner](https://ibb.co/XffcH7HP)
+![CodeForge Banner](https://i.ibb.co/9mmQPbP0/codeforge.jpg)
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 **CodeForge** is a powerful, lightweight code editor inspired by CodePen that runs in your browser. Write HTML, CSS, and JavaScript in separate panes and see your changes rendered in real-time. Perfect for web development experimentation, code sharing, and prototyping.
 
-![CodeForge Screenshot](https://i.imgur.com/placeholder-screenshot.png)
+![CodeForge Screenshot](https://i.ibb.co/wG3CygK/pizza.png)
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pratham279/CodeForge.git
+   git clone https://github.com/Pratham279/Code-Editor.git
    cd CodeForge
    ```
 
